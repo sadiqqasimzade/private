@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.mt-20{
+    margin-top: 20%;
+}
+.pb20{
+    padding-bottom: 20%;
+}
+
+
+.button{
+    padding: 2% 8%;
+}
+.li{
+    list-style: none;
+}
+ul{
+    list-style-type: none;
+}
+.bcg{
+    background-color: #f8f9fa;
+}
